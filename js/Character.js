@@ -1,5 +1,5 @@
-Game.Character = function(game) {
-    
+Game.Character = function() {
+
     this.health = null;
     this.attackPower = null;
     this.def = null;
